@@ -1,0 +1,261 @@
+;date;Coin;Trend
+0;18/10/2020;Axie Infinity;0
+1;25/10/2020;Axie Infinity;1
+2;01/11/2020;Axie Infinity;1
+3;08/11/2020;Axie Infinity;1
+4;15/11/2020;Axie Infinity;1
+5;22/11/2020;Axie Infinity;1
+6;29/11/2020;Axie Infinity;1
+7;06/12/2020;Axie Infinity;1
+8;13/12/2020;Axie Infinity;0
+9;20/12/2020;Axie Infinity;1
+10;27/12/2020;Axie Infinity;0
+11;03/01/2021;Axie Infinity;0
+12;10/01/2021;Axie Infinity;0
+13;17/01/2021;Axie Infinity;0
+14;24/01/2021;Axie Infinity;0
+15;31/01/2021;Axie Infinity;1
+16;07/02/2021;Axie Infinity;1
+17;14/02/2021;Axie Infinity;1
+18;21/02/2021;Axie Infinity;1
+19;28/02/2021;Axie Infinity;1
+20;07/03/2021;Axie Infinity;2
+21;14/03/2021;Axie Infinity;2
+22;21/03/2021;Axie Infinity;2
+23;28/03/2021;Axie Infinity;2
+24;04/04/2021;Axie Infinity;2
+25;11/04/2021;Axie Infinity;1
+26;18/04/2021;Axie Infinity;1
+27;25/04/2021;Axie Infinity;2
+28;02/05/2021;Axie Infinity;3
+29;09/05/2021;Axie Infinity;4
+30;16/05/2021;Axie Infinity;5
+31;23/05/2021;Axie Infinity;6
+32;30/05/2021;Axie Infinity;9
+33;06/06/2021;Axie Infinity;10
+34;13/06/2021;Axie Infinity;13
+35;20/06/2021;Axie Infinity;20
+36;27/06/2021;Axie Infinity;45
+37;04/07/2021;Axie Infinity;73
+38;11/07/2021;Axie Infinity;100
+39;18/07/2021;Axie Infinity;77
+40;25/07/2021;Axie Infinity;85
+41;01/08/2021;Axie Infinity;73
+42;08/08/2021;Axie Infinity;75
+43;15/08/2021;Axie Infinity;66
+44;22/08/2021;Axie Infinity;68
+45;29/08/2021;Axie Infinity;57
+46;05/09/2021;Axie Infinity;45
+47;12/09/2021;Axie Infinity;39
+48;19/09/2021;Axie Infinity;39
+49;26/09/2021;Axie Infinity;38
+50;03/10/2021;Axie Infinity;44
+51;10/10/2021;Axie Infinity;40
+52;18/10/2020;Illuvium;1
+53;25/10/2020;Illuvium;0
+54;01/11/2020;Illuvium;0
+55;08/11/2020;Illuvium;0
+56;15/11/2020;Illuvium;0
+57;22/11/2020;Illuvium;0
+58;29/11/2020;Illuvium;0
+59;06/12/2020;Illuvium;0
+60;13/12/2020;Illuvium;0
+61;20/12/2020;Illuvium;0
+62;27/12/2020;Illuvium;0
+63;03/01/2021;Illuvium;1
+64;10/01/2021;Illuvium;1
+65;17/01/2021;Illuvium;0
+66;24/01/2021;Illuvium;0
+67;31/01/2021;Illuvium;0
+68;07/02/2021;Illuvium;0
+69;14/02/2021;Illuvium;4
+70;21/02/2021;Illuvium;0
+71;28/02/2021;Illuvium;2
+72;07/03/2021;Illuvium;2
+73;14/03/2021;Illuvium;7
+74;21/03/2021;Illuvium;7
+75;28/03/2021;Illuvium;10
+76;04/04/2021;Illuvium;5
+77;11/04/2021;Illuvium;4
+78;18/04/2021;Illuvium;4
+79;25/04/2021;Illuvium;3
+80;02/05/2021;Illuvium;1
+81;09/05/2021;Illuvium;0
+82;16/05/2021;Illuvium;1
+83;23/05/2021;Illuvium;6
+84;30/05/2021;Illuvium;0
+85;06/06/2021;Illuvium;3
+86;13/06/2021;Illuvium;0
+87;20/06/2021;Illuvium;1
+88;27/06/2021;Illuvium;2
+89;04/07/2021;Illuvium;5
+90;11/07/2021;Illuvium;10
+91;18/07/2021;Illuvium;17
+92;25/07/2021;Illuvium;54
+93;01/08/2021;Illuvium;41
+94;08/08/2021;Illuvium;58
+95;15/08/2021;Illuvium;100
+96;22/08/2021;Illuvium;60
+97;29/08/2021;Illuvium;68
+98;05/09/2021;Illuvium;79
+99;12/09/2021;Illuvium;56
+100;19/09/2021;Illuvium;52
+101;26/09/2021;Illuvium;30
+102;03/10/2021;Illuvium;52
+103;10/10/2021;Illuvium;34
+104;18/10/2020;Gala;7
+105;25/10/2020;Gala;6
+106;01/11/2020;Gala;6
+107;08/11/2020;Gala;6
+108;15/11/2020;Gala;7
+109;22/11/2020;Gala;6
+110;29/11/2020;Gala;6
+111;06/12/2020;Gala;6
+112;13/12/2020;Gala;6
+113;20/12/2020;Gala;7
+114;27/12/2020;Gala;7
+115;03/01/2021;Gala;7
+116;10/01/2021;Gala;6
+117;17/01/2021;Gala;6
+118;24/01/2021;Gala;6
+119;31/01/2021;Gala;6
+120;07/02/2021;Gala;7
+121;14/02/2021;Gala;6
+122;21/02/2021;Gala;6
+123;28/02/2021;Gala;7
+124;07/03/2021;Gala;7
+125;14/03/2021;Gala;7
+126;21/03/2021;Gala;7
+127;28/03/2021;Gala;7
+128;04/04/2021;Gala;7
+129;11/04/2021;Gala;8
+130;18/04/2021;Gala;7
+131;25/04/2021;Gala;7
+132;02/05/2021;Gala;8
+133;09/05/2021;Gala;8
+134;16/05/2021;Gala;7
+135;23/05/2021;Gala;7
+136;30/05/2021;Gala;7
+137;06/06/2021;Gala;8
+138;13/06/2021;Gala;7
+139;20/06/2021;Gala;7
+140;27/06/2021;Gala;7
+141;04/07/2021;Gala;7
+142;11/07/2021;Gala;7
+143;18/07/2021;Gala;7
+144;25/07/2021;Gala;7
+145;01/08/2021;Gala;7
+146;08/08/2021;Gala;7
+147;15/08/2021;Gala;7
+148;22/08/2021;Gala;10
+149;29/08/2021;Gala;8
+150;05/09/2021;Gala;9
+151;12/09/2021;Gala;100
+152;19/09/2021;Gala;19
+153;26/09/2021;Gala;11
+154;03/10/2021;Gala;10
+155;10/10/2021;Gala;9
+156;18/10/2020;Star Atlas;4
+157;25/10/2020;Star Atlas;2
+158;01/11/2020;Star Atlas;3
+159;08/11/2020;Star Atlas;4
+160;15/11/2020;Star Atlas;6
+161;22/11/2020;Star Atlas;6
+162;29/11/2020;Star Atlas;9
+163;06/12/2020;Star Atlas;5
+164;13/12/2020;Star Atlas;7
+165;20/12/2020;Star Atlas;8
+166;27/12/2020;Star Atlas;4
+167;03/01/2021;Star Atlas;3
+168;10/01/2021;Star Atlas;7
+169;17/01/2021;Star Atlas;6
+170;24/01/2021;Star Atlas;5
+171;31/01/2021;Star Atlas;7
+172;07/02/2021;Star Atlas;4
+173;14/02/2021;Star Atlas;2
+174;21/02/2021;Star Atlas;4
+175;28/02/2021;Star Atlas;2
+176;07/03/2021;Star Atlas;5
+177;14/03/2021;Star Atlas;5
+178;21/03/2021;Star Atlas;5
+179;28/03/2021;Star Atlas;6
+180;04/04/2021;Star Atlas;8
+181;11/04/2021;Star Atlas;7
+182;18/04/2021;Star Atlas;5
+183;25/04/2021;Star Atlas;9
+184;02/05/2021;Star Atlas;9
+185;09/05/2021;Star Atlas;5
+186;16/05/2021;Star Atlas;6
+187;23/05/2021;Star Atlas;6
+188;30/05/2021;Star Atlas;4
+189;06/06/2021;Star Atlas;4
+190;13/06/2021;Star Atlas;7
+191;20/06/2021;Star Atlas;5
+192;27/06/2021;Star Atlas;4
+193;04/07/2021;Star Atlas;3
+194;11/07/2021;Star Atlas;6
+195;18/07/2021;Star Atlas;6
+196;25/07/2021;Star Atlas;9
+197;01/08/2021;Star Atlas;11
+198;08/08/2021;Star Atlas;8
+199;15/08/2021;Star Atlas;18
+200;22/08/2021;Star Atlas;47
+201;29/08/2021;Star Atlas;82
+202;05/09/2021;Star Atlas;100
+203;12/09/2021;Star Atlas;55
+204;19/09/2021;Star Atlas;34
+205;26/09/2021;Star Atlas;33
+206;03/10/2021;Star Atlas;64
+207;10/10/2021;Star Atlas;37
+208;18/10/2020;EnjinCoin;49
+209;25/10/2020;EnjinCoin;0
+210;01/11/2020;EnjinCoin;0
+211;08/11/2020;EnjinCoin;0
+212;15/11/2020;EnjinCoin;47
+213;22/11/2020;EnjinCoin;0
+214;29/11/2020;EnjinCoin;0
+215;06/12/2020;EnjinCoin;47
+216;13/12/2020;EnjinCoin;0
+217;20/12/2020;EnjinCoin;0
+218;27/12/2020;EnjinCoin;0
+219;03/01/2021;EnjinCoin;48
+220;10/01/2021;EnjinCoin;95
+221;17/01/2021;EnjinCoin;47
+222;24/01/2021;EnjinCoin;0
+223;31/01/2021;EnjinCoin;47
+224;07/02/2021;EnjinCoin;47
+225;14/02/2021;EnjinCoin;0
+226;21/02/2021;EnjinCoin;0
+227;28/02/2021;EnjinCoin;0
+228;07/03/2021;EnjinCoin;95
+229;14/03/2021;EnjinCoin;45
+230;21/03/2021;EnjinCoin;0
+231;28/03/2021;EnjinCoin;100
+232;04/04/2021;EnjinCoin;48
+233;11/04/2021;EnjinCoin;47
+234;18/04/2021;EnjinCoin;47
+235;25/04/2021;EnjinCoin;0
+236;02/05/2021;EnjinCoin;0
+237;09/05/2021;EnjinCoin;49
+238;16/05/2021;EnjinCoin;48
+239;23/05/2021;EnjinCoin;0
+240;30/05/2021;EnjinCoin;49
+241;06/06/2021;EnjinCoin;0
+242;13/06/2021;EnjinCoin;96
+243;20/06/2021;EnjinCoin;0
+244;27/06/2021;EnjinCoin;0
+245;04/07/2021;EnjinCoin;0
+246;11/07/2021;EnjinCoin;0
+247;18/07/2021;EnjinCoin;0
+248;25/07/2021;EnjinCoin;0
+249;01/08/2021;EnjinCoin;0
+250;08/08/2021;EnjinCoin;0
+251;15/08/2021;EnjinCoin;0
+252;22/08/2021;EnjinCoin;0
+253;29/08/2021;EnjinCoin;0
+254;05/09/2021;EnjinCoin;0
+255;12/09/2021;EnjinCoin;0
+256;19/09/2021;EnjinCoin;0
+257;26/09/2021;EnjinCoin;0
+258;03/10/2021;EnjinCoin;52
+259;10/10/2021;EnjinCoin;0
